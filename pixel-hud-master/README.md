@@ -1,5 +1,5 @@
 # PIXEL HUD
-PIXEL UI is required for this addon to work. You can get it [here](https://github.com/TomDotBat/pixel-ui).
+PIXEL UI is required for this addon to work. You can get it [here](https://github.com/ISA420-1/Pixle-hub-fixed/tree/main/pixel-ui-master).
 
 ## Settings
 ### Bar HUD
