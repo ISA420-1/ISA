@@ -1,2 +1,0 @@
-PIXEL.HUD.ServerName = "PooStuffa"
-
